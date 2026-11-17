@@ -1,0 +1,360 @@
+No Man's Sky — Crafting Guide
+Source: https://nomansskyrecipes.com/crafting-guide/
+All 68 crafted products, most valuable first (Forsaken 7.1 / site update 2026-10-28).
+This is the main crafting tree chart from the site (recipe ingredients → product).
+
+============================================================================================================================================
+#   Product                             Value  Input 1                              Input 2                              Input 3                             
+============================================================================================================================================
+1   Fusion Ignitor                 15,600,000  Portable Reactor x1                  Quantum Processor x1                 Geodesite x1                        
+2   Stasis Device                  15,600,000  Quantum Processor x1                 Cryogenic Chamber x1                 Iridesite x1                        
+3   Cryo-pump                       1,500,000  HoT Ice x1                           Thermic Condensate x1                                                    
+4   Fusion Accelerant               1,500,000  Organic Catalyst x1                  Nitrogen Salt x1                                                         
+5   Superconductor                  1,500,000  Semiconductor x1                     Enriched Carbon x1                                                       
+6   Circuit Board                     916,250  Heat Capacitor x1                    Poly Fibre x1                                                            
+7   Liquid Explosive                  800,500  Acid x1                              Unstable Gel x1                                                          
+8   Living Glass                      566,000  Lubricant x1                         Glass x5                                                                 
+9   HoT Ice                           320,000  Enriched Carbon x1                   Nitrogen Salt x1                                                         
+10  Organic Catalyst                  320,000  Thermic Condensate x1                Enriched Carbon x1                                                       
+11  Semiconductor                     320,000  Thermic Condensate x1                Nitrogen Salt x1                                                         
+12  Acid                              188,000  Mordite x25                          Fungal Mould x600                                                        
+13  Heat Capacitor                    180,000  Frost Crystal x100                   Solanium x200                                                            
+14  Geodesite                         150,000  Dirty Bronze x1                      Herox x1                             Lemmium x1                          
+15  Iridesite                         150,000  Aronium x1                           Magno-gold x1                        Grantine x1                         
+16  Poly Fibre                        130,000  Cactus Flesh x100                    Star Bulb x200                                                           
+17  Lubricant                         110,000  Faecium x50                          Gamma Root x400                                                          
+18  Frigate Fuel (200 Tonnes)          80,000  Di-hydrogen x200                     Tritium x200                                                             
+19  Enriched Carbon                    50,000  Radon x250                           Condensed Carbon x50                                                     
+20  Nitrogen Salt                      50,000  Nitrogen x250                        Condensed Carbon x50                                                     
+21  Thermic Condensate                 50,000  Sulphurine x250                      Condensed Carbon x50                                                     
+22  Unstable Gel                       50,000  Cactus Flesh x200                                                                                             
+23  Warp Cell                          46,750  Antimatter Housing x1                Antimatter x1                                                            
+24  Warp Hypercore                     46,750  Antimatter x1                        Storm Crystal x1                                                         
+25  Frigate Fuel (100 Tonnes)          40,000  Di-hydrogen x100                     Tritium x100                                                             
+26  Aronium                            25,000  Paraffinium x50                      Ionised Cobalt x50                                                       
+27  Dirty Bronze                       25,000  Pyrite x50                           Pure Ferrite x100                                                        
+28  Grantine                           25,000  Dioxite x50                          Ionised Cobalt x50                                                       
+29  Herox                              25,000  Ammonia x50                          Ionised Cobalt x50                                                       
+30  Lemmium                            25,000  Uranium x50                          Pure Ferrite x100                                                        
+31  Magno-gold                         25,000  Phosphorus x50                       Ionised Cobalt x50                                                       
+32  Frigate Fuel (50 Tonnes)           20,000  Di-hydrogen x50                      Tritium x50                                                              
+33  Amino Chamber                      12,300  Metal Plating x1                     Chlorine x20                         Condensed Carbon x25                
+34  Antimatter Housing                  6,500  Oxygen x30                           Ferrite Dust x50                                                         
+35  Magnetic Resonator                  6,150  Magnetised Ferrite x40               Ionised Cobalt x40                                                       
+36  Solar Mirror                        6,150  Gold x40                             Silver x30                           Chromatic Metal x25                 
+37  Unstable Plasma                     5,750  Oxygen x50                           Metal Plating x1                                                         
+38  Antimatter                          5,233  Chromatic Metal x25                  Condensed Carbon x20                                                     
+39  Quantum Computer                    4,200  Microprocessor x1                    Antimatter x1                        Chromatic Metal x25                 
+40  Hydraulic Wiring                    3,600  Carbon Nanotubes x2                  Salt x20                             Di-hydrogen x40                     
+41  Deep-space Lure                     3,200  Gold x40                             Silver x40                           Chromatic Metal x40                 
+42  Microprocessor                      2,000  Chromatic Metal x40                  Carbon Nanotubes x1                                                      
+43  Consciousness Bridge                1,616  Hexite x250                          Pugneum x80                          Korvax Casing x1                    
+44  Impossible Membrane                 1,616  Chromatic Metal x100                 Hypnotic Eye x1                      Living Water x150                   
+45  Pulsating Core                      1,616  Liquid Sun x250                      Gold x100                            Mordite x80                         
+46  Seeds of Glass                      1,616  Magnetised Ferrite x100              Fragmented Qualia x100                                                   
+47  Hermetic Seal                         800  Condensed Carbon x30                                                                                          
+48  Metal Plating                         800  Ferrite Dust x50                                                                                              
+49  Carbon Nanotubes                      500  Carbon x50                                                                                                    
+50  Starshield Battery                    500  Tritium x50                          Gold x20                                                                 
+51  Starship Launch Fuel                  450  Di-hydrogen x40                      Metal Plating x1                                                         
+52  Di-hydrogen Jelly                     200  Di-hydrogen x40                                                                                               
+53  Glass                                 200  Frost Crystal x40                                                                                             
+54  Ion Battery                           200  Cobalt x10                           Ferrite Dust x5                                                          
+55  Life Support Gel                      200  Di-hydrogen Jelly x1                 Carbon x20                                                               
+56  Albumen Pearl Orb                       3  Indium x60                           Paraffinium x20                                                          
+57  Echinocactus                            3  Cactus Flesh x50                     Pyrite x25                                                               
+58  Frostwort                               3  Frost Crystal x50                    Dioxite x25                                                              
+59  Fungal Cluster                          3  Fungal Mould x50                     Ammonia x25                                                              
+60  Gamma Weed                              3  Gamma Root x50                       Uranium x25                                                              
+61  Gravitino Host                          3  Chromatic Metal x25                  Silver x120                          Magnetised Ferrite x25              
+62  Gutrot Flower                           3  Faecium x40                                                                                                   
+63  Mordite Root                            3  Mordite x40                                                                                                   
+64  Nipnip                                  3  Nipnip Buds x1                       Faecium x20                                                              
+65  Solar Vine                              3  Solanium x50                         Phosphorus x25                                                           
+66  Star Bramble                            3  Star Bulb x50                        Paraffinium x25                                                          
+67  Venom Urchin                            3  Emeril x100                          Gold x50                                                                 
+68  Projectile Ammunition                   1  Ferrite Dust x2                                                                                               
+============================================================================================================================================
+
+DETAILED (with item IDs)
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Fusion Ignitor  [ULTRAPROD1]  value=15,600,000
+   input1: Portable Reactor x1  [MEGAPROD1]
+   input2: Quantum Processor x1  [MEGAPROD2]
+   input3: Geodesite x1  [ALLOY7]
+
+2. Stasis Device  [ULTRAPROD2]  value=15,600,000
+   input1: Quantum Processor x1  [MEGAPROD2]
+   input2: Cryogenic Chamber x1  [MEGAPROD3]
+   input3: Iridesite x1  [ALLOY8]
+
+3. Cryo-pump  [COMPOUND6]  value=1,500,000
+   input1: HoT Ice x1  [COMPOUND3]
+   input2: Thermic Condensate x1  [REACTION1]
+
+4. Fusion Accelerant  [COMPOUND4]  value=1,500,000
+   input1: Organic Catalyst x1  [COMPOUND1]
+   input2: Nitrogen Salt x1  [REACTION3]
+
+5. Superconductor  [COMPOUND5]  value=1,500,000
+   input1: Semiconductor x1  [COMPOUND2]
+   input2: Enriched Carbon x1  [REACTION2]
+
+6. Circuit Board  [FARMPROD9]  value=916,250
+   input1: Heat Capacitor x1  [FARMPROD4]
+   input2: Poly Fibre x1  [FARMPROD5]
+
+7. Liquid Explosive  [FARMPROD7]  value=800,500
+   input1: Acid x1  [FARMPROD1]
+   input2: Unstable Gel x1  [FARMPROD6]
+
+8. Living Glass  [FARMPROD8]  value=566,000
+   input1: Lubricant x1  [FARMPROD2]
+   input2: Glass x5  [FARMPROD3]
+
+9. HoT Ice  [COMPOUND3]  value=320,000
+   input1: Enriched Carbon x1  [REACTION2]
+   input2: Nitrogen Salt x1  [REACTION3]
+
+10. Organic Catalyst  [COMPOUND1]  value=320,000
+   input1: Thermic Condensate x1  [REACTION1]
+   input2: Enriched Carbon x1  [REACTION2]
+
+11. Semiconductor  [COMPOUND2]  value=320,000
+   input1: Thermic Condensate x1  [REACTION1]
+   input2: Nitrogen Salt x1  [REACTION3]
+
+12. Acid  [FARMPROD1]  value=188,000
+   input1: Mordite x25  [CREATURE1]
+   input2: Fungal Mould x600  [PLANT_TOXIC]
+
+13. Heat Capacitor  [FARMPROD4]  value=180,000
+   input1: Frost Crystal x100  [PLANT_SNOW]
+   input2: Solanium x200  [PLANT_HOT]
+
+14. Geodesite  [ALLOY7]  value=150,000
+   input1: Dirty Bronze x1  [ALLOY2]
+   input2: Herox x1  [ALLOY3]
+   input3: Lemmium x1  [ALLOY4]
+
+15. Iridesite  [ALLOY8]  value=150,000
+   input1: Aronium x1  [ALLOY1]
+   input2: Magno-gold x1  [ALLOY5]
+   input3: Grantine x1  [ALLOY6]
+
+16. Poly Fibre  [FARMPROD5]  value=130,000
+   input1: Cactus Flesh x100  [PLANT_DUST]
+   input2: Star Bulb x200  [PLANT_LUSH]
+
+17. Lubricant  [FARMPROD2]  value=110,000
+   input1: Faecium x50  [PLANT_POOP]
+   input2: Gamma Root x400  [PLANT_RADIO]
+
+18. Frigate Fuel (200 Tonnes)  [FRIGATE_FUEL_3]  value=80,000
+   input1: Di-hydrogen x200  [LAUNCHSUB]
+   input2: Tritium x200  [ROCKETSUB]
+
+19. Enriched Carbon  [REACTION2]  value=50,000
+   input1: Radon x250  [GAS2]
+   input2: Condensed Carbon x50  [FUEL2]
+
+20. Nitrogen Salt  [REACTION3]  value=50,000
+   input1: Nitrogen x250  [GAS3]
+   input2: Condensed Carbon x50  [FUEL2]
+
+21. Thermic Condensate  [REACTION1]  value=50,000
+   input1: Sulphurine x250  [GAS1]
+   input2: Condensed Carbon x50  [FUEL2]
+
+22. Unstable Gel  [FARMPROD6]  value=50,000
+   input1: Cactus Flesh x200  [PLANT_DUST]
+
+23. Warp Cell  [HYPERFUEL1]  value=46,750
+   input1: Antimatter Housing x1  [AM_HOUSING]
+   input2: Antimatter x1  [ANTIMATTER]
+
+24. Warp Hypercore  [HYPERFUEL2]  value=46,750
+   input1: Antimatter x1  [ANTIMATTER]
+   input2: Storm Crystal x1  [STORM_CRYSTAL]
+
+25. Frigate Fuel (100 Tonnes)  [FRIGATE_FUEL_2]  value=40,000
+   input1: Di-hydrogen x100  [LAUNCHSUB]
+   input2: Tritium x100  [ROCKETSUB]
+
+26. Aronium  [ALLOY1]  value=25,000
+   input1: Paraffinium x50  [LUSH1]
+   input2: Ionised Cobalt x50  [CAVE2]
+
+27. Dirty Bronze  [ALLOY2]  value=25,000
+   input1: Pyrite x50  [DUSTY1]
+   input2: Pure Ferrite x100  [LAND2]
+
+28. Grantine  [ALLOY6]  value=25,000
+   input1: Dioxite x50  [COLD1]
+   input2: Ionised Cobalt x50  [CAVE2]
+
+29. Herox  [ALLOY3]  value=25,000
+   input1: Ammonia x50  [TOXIC1]
+   input2: Ionised Cobalt x50  [CAVE2]
+
+30. Lemmium  [ALLOY4]  value=25,000
+   input1: Uranium x50  [RADIO1]
+   input2: Pure Ferrite x100  [LAND2]
+
+31. Magno-gold  [ALLOY5]  value=25,000
+   input1: Phosphorus x50  [HOT1]
+   input2: Ionised Cobalt x50  [CAVE2]
+
+32. Frigate Fuel (50 Tonnes)  [FRIGATE_FUEL_1]  value=20,000
+   input1: Di-hydrogen x50  [LAUNCHSUB]
+   input2: Tritium x50  [ROCKETSUB]
+
+33. Amino Chamber  [BIO]  value=12,300
+   input1: Metal Plating x1  [CASING]
+   input2: Chlorine x20  [WATER2]
+   input3: Condensed Carbon x25  [FUEL2]
+
+34. Antimatter Housing  [AM_HOUSING]  value=6,500
+   input1: Oxygen x30  [OXYGEN]
+   input2: Ferrite Dust x50  [LAND1]
+
+35. Magnetic Resonator  [MAGNET]  value=6,150
+   input1: Magnetised Ferrite x40  [LAND3]
+   input2: Ionised Cobalt x40  [CAVE2]
+
+36. Solar Mirror  [MIRROR]  value=6,150
+   input1: Gold x40  [ASTEROID2]
+   input2: Silver x30  [ASTEROID1]
+   input3: Chromatic Metal x25  [STELLAR2]
+
+37. Unstable Plasma  [GRENFUEL1]  value=5,750
+   input1: Oxygen x50  [OXYGEN]
+   input2: Metal Plating x1  [CASING]
+
+38. Antimatter  [ANTIMATTER]  value=5,233
+   input1: Chromatic Metal x25  [STELLAR2]
+   input2: Condensed Carbon x20  [FUEL2]
+
+39. Quantum Computer  [COMPUTER]  value=4,200
+   input1: Microprocessor x1  [MICROCHIP]
+   input2: Antimatter x1  [ANTIMATTER]
+   input3: Chromatic Metal x25  [STELLAR2]
+
+40. Hydraulic Wiring  [HYDRALIC]  value=3,600
+   input1: Carbon Nanotubes x2  [NANOTUBES]
+   input2: Salt x20  [WATER1]
+   input3: Di-hydrogen x40  [LAUNCHSUB]
+
+41. Deep-space Lure  [GAS_BRAIN_LOC]  value=3,200
+   input1: Gold x40  [ASTEROID2]
+   input2: Silver x40  [ASTEROID1]
+   input3: Chromatic Metal x40  [STELLAR2]
+
+42. Microprocessor  [MICROCHIP]  value=2,000
+   input1: Chromatic Metal x40  [STELLAR2]
+   input2: Carbon Nanotubes x1  [NANOTUBES]
+
+43. Consciousness Bridge  [BIOSHIP_COMP1]  value=1,616
+   input1: Hexite x250  [SPECIAL_POOP]
+   input2: Pugneum x80  [ROBOT1]
+   input3: Korvax Casing x1  [EXP_CURIO1]
+
+44. Impossible Membrane  [BIOSHIP_COMP3]  value=1,616
+   input1: Chromatic Metal x100  [STELLAR2]
+   input2: Hypnotic Eye x1  [EYEBALL]
+   input3: Living Water x150  [EXOTIC_BIOPROD]
+
+45. Pulsating Core  [BIOSHIP_COMP2]  value=1,616
+   input1: Liquid Sun x250  [SUNGOLD]
+   input2: Gold x100  [ASTEROID2]
+   input3: Mordite x80  [CREATURE1]
+
+46. Seeds of Glass  [BIOSHIP_COMP4]  value=1,616
+   input1: Magnetised Ferrite x100  [LAND3]
+   input2: Fragmented Qualia x100  [SOULFRAG]
+
+47. Hermetic Seal  [CARBON_SEAL]  value=800
+   input1: Condensed Carbon x30  [FUEL2]
+
+48. Metal Plating  [CASING]  value=800
+   input1: Ferrite Dust x50  [LAND1]
+
+49. Carbon Nanotubes  [NANOTUBES]  value=500
+   input1: Carbon x50  [FUEL1]
+
+50. Starshield Battery  [SHIPCHARGE]  value=500
+   input1: Tritium x50  [ROCKETSUB]
+   input2: Gold x20  [ASTEROID2]
+
+51. Starship Launch Fuel  [LAUNCHFUEL]  value=450
+   input1: Di-hydrogen x40  [LAUNCHSUB]
+   input2: Metal Plating x1  [CASING]
+
+52. Di-hydrogen Jelly  [JELLY]  value=200
+   input1: Di-hydrogen x40  [LAUNCHSUB]
+
+53. Glass  [FARMPROD3]  value=200
+   input1: Frost Crystal x40  [PLANT_SNOW]
+
+54. Ion Battery  [POWERCELL]  value=200
+   input1: Cobalt x10  [CAVE1]
+   input2: Ferrite Dust x5  [LAND1]
+
+55. Life Support Gel  [PRODFUEL2]  value=200
+   input1: Di-hydrogen Jelly x1  [JELLY]
+   input2: Carbon x20  [FUEL1]
+
+56. Albumen Pearl Orb  [PEARLPLANT]  value=3
+   input1: Indium x60  [BLUE2]
+   input2: Paraffinium x20  [LUSH1]
+
+57. Echinocactus  [BARRENPLANT]  value=3
+   input1: Cactus Flesh x50  [PLANT_DUST]
+   input2: Pyrite x25  [DUSTY1]
+
+58. Frostwort  [SNOWPLANT]  value=3
+   input1: Frost Crystal x50  [PLANT_SNOW]
+   input2: Dioxite x25  [COLD1]
+
+59. Fungal Cluster  [TOXICPLANT]  value=3
+   input1: Fungal Mould x50  [PLANT_TOXIC]
+   input2: Ammonia x25  [TOXIC1]
+
+60. Gamma Weed  [RADIOPLANT]  value=3
+   input1: Gamma Root x50  [PLANT_RADIO]
+   input2: Uranium x25  [RADIO1]
+
+61. Gravitino Host  [GRAVPLANT]  value=3
+   input1: Chromatic Metal x25  [STELLAR2]
+   input2: Silver x120  [ASTEROID1]
+   input3: Magnetised Ferrite x25  [LAND3]
+
+62. Gutrot Flower  [POOPPLANT]  value=3
+   input1: Faecium x40  [PLANT_POOP]
+
+63. Mordite Root  [CREATUREPLANT]  value=3
+   input1: Mordite x40  [CREATURE1]
+
+64. Nipnip  [NIPPLANT]  value=3
+   input1: Nipnip Buds x1  [NIPNIPBUDS]
+   input2: Faecium x20  [PLANT_POOP]
+
+65. Solar Vine  [SCORCHEDPLANT]  value=3
+   input1: Solanium x50  [PLANT_HOT]
+   input2: Phosphorus x25  [HOT1]
+
+66. Star Bramble  [LUSHPLANT]  value=3
+   input1: Star Bulb x50  [PLANT_LUSH]
+   input2: Paraffinium x25  [LUSH1]
+
+67. Venom Urchin  [SACVENOMPLANT]  value=3
+   input1: Emeril x100  [GREEN2]
+   input2: Gold x50  [ASTEROID2]
+
+68. Projectile Ammunition  [AMMO]  value=1
+   input1: Ferrite Dust x2  [LAND1]
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Total recipes: 68
+Generated from nomansskyrecipes.com crafting-guide table.
